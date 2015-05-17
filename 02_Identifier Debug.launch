@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.cdt.launch.remoteApplicationLaunchType">
-<stringAttribute key="bad_container_name" value="02_Identifier01_Datentypen"/>
+<stringAttribute key="bad_container_name" value="MRT1-C_02_Identifier01_Datentypen"/>
 <booleanAttribute key="org.eclipse.cdt.dsf.gdb.AUTO_SOLIB" value="true"/>
 <listAttribute key="org.eclipse.cdt.dsf.gdb.AUTO_SOLIB_LIST"/>
 <stringAttribute key="org.eclipse.cdt.dsf.gdb.DEBUG_NAME" value="arm-linux-gnueabihf-gdb"/>
@@ -17,8 +17,8 @@
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="remote"/>
 <booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
 <stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="main"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/02_Identifier"/>
-<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="02_Identifier"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/MRT1-C_02_Identifier"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="MRT1-C_02_Identifier"/>
 <booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="false"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value=""/>
 <booleanAttribute key="org.eclipse.cdt.launch.remote.RemoteCDSFDebuggerTab.DEFAULTS_SET" value="true"/>
@@ -26,9 +26,9 @@
 <stringAttribute key="org.eclipse.debug.core.ATTR_GDBSERVER_PORT" value="2345"/>
 <stringAttribute key="org.eclipse.debug.core.ATTR_PRERUN_CMDS" value="chmod -R 777 /home/pi/remote-debugging"/>
 <booleanAttribute key="org.eclipse.debug.core.ATTR_SKIP_DOWNLOAD_TO_TARGET" value="false"/>
-<stringAttribute key="org.eclipse.debug.core.ATTR_TARGET_PATH" value="/home/pi/remote-debugging/02_Identifier"/>
+<stringAttribute key="org.eclipse.debug.core.ATTR_TARGET_PATH" value="/home/pi/remote-debugging/MRT1-C_02_Identifier"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/02_Identifier"/>
+<listEntry value="/MRT1-C_02_Identifier"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
